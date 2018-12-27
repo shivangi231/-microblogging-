@@ -1,0 +1,18 @@
+
+.textarea-align{
+  border-radius: 5px;
+  margin-top: 20px;
+  border-color: darkgoldenrod;
+  &:focus, &:active {
+   outline: none;
+  }
+}
+.button-wrapper{
+ border-radius: 2px;
+ padding: 10px 25px;
+ border-color: black;
+ color: darkgoldenrod;
+ &:focus, &:active {
+  outline: none;
+ }
+}

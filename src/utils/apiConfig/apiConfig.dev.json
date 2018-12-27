@@ -1,0 +1,8 @@
+{
+  "servify": {
+    "uri": "https://www.googleapis.com/geolocation/v1/geolocate?key=AIzaSyBCt6fZaYJh2rlH1Q5aPWEf6U8OyLOZHGg"
+  },
+  "oneplus": {
+    "uri": "http://staging.oneplus.in:5010/api"
+  }
+}
